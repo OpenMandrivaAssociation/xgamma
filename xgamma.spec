@@ -1,5 +1,5 @@
 Name: xgamma
-Version: 1.0.3
+Version: 1.0.4
 Release: %mkrel 1
 Summary: Alter a monitor's gamma correction through the X server
 Group: Development/X11
