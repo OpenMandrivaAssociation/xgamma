@@ -1,6 +1,6 @@
 Name: xgamma
 Version: 1.0.5
-Release: 3
+Release: 4
 Summary: Alter a monitor's gamma correction through the X server
 Group: Development/X11
 Source0: http://xorg.freedesktop.org/releases/individual/app/%{name}-%{version}.tar.bz2
